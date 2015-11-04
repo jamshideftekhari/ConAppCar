@@ -9,5 +9,7 @@ namespace ConAppCar
     class Car
     {
         private int _id;
+        //version 2 code
+        private string _name;
     }
 }
