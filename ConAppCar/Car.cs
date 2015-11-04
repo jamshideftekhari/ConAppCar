@@ -13,5 +13,7 @@ namespace ConAppCar
         private string _name;
         //add last name
         private string _Lname;
+        //added age
+        private int _age;
     }
 }
